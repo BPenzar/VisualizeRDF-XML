@@ -11,3 +11,13 @@
   stroke-width: 1.5px;
   cursor: pointer;
 }
+
+
+.node {
+  cursor: pointer;
+}
+
+svg{
+  width: 100%;
+  height: 100%;
+}
